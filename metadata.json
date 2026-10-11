@@ -1,0 +1,6 @@
+{
+  "name": "GamePulse",
+  "description": "Explore authoritative gaming news, unbiased scored reviews, in-depth technical guides, and GPU benchmarks. Stay ahead with GamePulse's daily industry pulse.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
